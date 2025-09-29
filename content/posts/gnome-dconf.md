@@ -1,8 +1,9 @@
 +++
-date = '2025-08-19T19:20:12+02:00'
-title = 'DConf Enterprise Deployment - a How-to and Why?'
-tags = ['configuration', 'enterprise']
-categories = ['computers']
+date = "2025-08-19T19:20:12+02:00"
+title = "DConf Enterprise Deployment - a How-to and Why?"
+tags = [ "configuration", "enterprise" ]
+categories = [ "computers" ]
+slug = "dconf-enterprise-deployment"
 +++
 
 Have you ever wanted to transition your company to Linux? Sure you have. But seriously - Linux might be the best operating system for enterprise users because you don't have to pay GARGANTUAN prices for shit as simple as enterprise deployment.

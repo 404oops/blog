@@ -1,8 +1,9 @@
 +++
-date = '2025-08-21T15:59:02+02:00'
-title = 'Awful Tech Takes Galore! - A gallery of awful tech takes.'
-categories = ['computers']
-tags = ['opinion']
+date = "2025-08-21T15:59:02+02:00"
+title = "Awful Tech Takes Galore! - A gallery of awful tech takes."
+categories = [ "computers" ]
+tags = [ "opinion" ]
+slug = "awful-tech-takes-galore"
 +++
 
 Some people have a very trashy taste when it comes to technology and frankly sometimes it makes me want to pull my head out of my spine. Some people genuinely never had experience with using their computers or any technology seriously and may, in fact, criticize you for using something that's comfortable with you and your workflow.

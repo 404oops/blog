@@ -1,8 +1,9 @@
 +++
-date = '2025-08-20T18:25:01+02:00'
-title = 'Fair Software - Not all paid software is predatory.'
-categories = ['computers']
-tags = ['opinion']
+date = "2025-08-20T18:25:01+02:00"
+title = "Fair Software - Not all paid software is predatory."
+categories = [ "computers" ]
+tags = [ "opinion" ]
+slug = "fair-software"
 +++
 
 Software can be defined in a lot of ways. There's Free (Libre) Software, which is software that is defined by its openness to distribute, modify and copy its source code. Famous examples are GNU/Linux, LibreOffice and Blender.

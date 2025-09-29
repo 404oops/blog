@@ -1,8 +1,9 @@
 +++
-date = '2025-08-19T19:28:22+02:00'
-title = 'Comma-Separated Notation: A quick sketch notation method that needs no apps'
-categories = ['music']
-tags = ['notation', 'writing', 'experiments']
+date = "2025-08-19T19:28:22+02:00"
+title = "Comma-Separated Notation: A quick sketch notation"
+categories = [ "music" ]
+tags = [ "notation", "writing", "experiments" ]
+slug = "comma-separated-notation"
 +++
 
 Notation isn't really easy. Or hard. But when you're on a quick trip and get a melody and suffer from a memory loss condition, things are hard. Your brain can trip and forget a good melody and then you sit around wondering what it was before you can salvage what's left in your brain.

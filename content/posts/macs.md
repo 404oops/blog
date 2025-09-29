@@ -1,8 +1,9 @@
 +++
-date = '2025-08-19T19:49:51+02:00'
-title = 'Why I use macOS! (as well as the rest of the Apple ecosystem)'
-categories = ['computers']
-tags = ['configuration', 'opinion']
+date = "2025-08-19T19:49:51+02:00"
+title = "Why I use macOS (as well as the rest of the Apple ecosystem)"
+categories = [ "computers" ]
+tags = [ "configuration", "opinion" ]
+slug = "mac-apple-ecosystem"
 +++
 
 Hi y'all!

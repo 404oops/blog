@@ -5,10 +5,6 @@ theme = 'xmin'
 ignoreFiles = [ "\\.Rmd$", "\\.Rmarkdown$", "_cache$" ]
 footnotereturnlinkcontents = "↩"
 
-[permalinks]
-note = "/note/:month/:day/:year/:slug/"
-post = "/post/:month/:day/:year/:slug/"
-
 [[menu.main]]
 name = "Home"
 url = "/"
